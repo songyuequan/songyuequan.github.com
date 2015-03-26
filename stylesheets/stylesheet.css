@@ -21,4 +21,17 @@ h2{
     margin-left: 10%;
     margin-top: 50px;
 }
+a:link{
+    color: cornflowerblue;
+    text-decoration: none;
+}
+a:hover{
+    color: yellow;
+}
+a:visited{
+    color: cornflowerblue;
+}
+a:active{
+    color: blue;
+}
 
