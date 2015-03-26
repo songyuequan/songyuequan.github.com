@@ -26,7 +26,8 @@ a:link{
     text-decoration: none;
 }
 a:hover{
-    color: blue;
+    color: cornflowerblue;
+    text-decoration: underline;
 }
 a:visited{
     color: cornflowerblue;
